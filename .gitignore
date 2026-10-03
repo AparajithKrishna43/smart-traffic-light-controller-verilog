@@ -1,0 +1,45 @@
+# Simulation & Synthesis Outputs
+*.log
+*.jou
+*.pb
+*.wdb
+*.vcd
+*.vpd
+*.fsdb
+*.raw
+*.key
+*.vvp
+a.out
+
+# Vivado / Xilinx
+.Xil/
+*.dcp
+*.rpt
+*.xml
+*.bit
+*.bin
+*.hwdef
+*.ip_user_files/
+work/
+xsim.dir/
+
+# ModelSim / QuestaSim
+transcript
+vsim.wlf
+work/
+*.vstf
+modelsim.ini
+
+# Icarus Verilog
+*.vvp
+
+# Python / Cache
+__pycache__/
+*.py[cod]
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
